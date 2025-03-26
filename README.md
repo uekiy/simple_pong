@@ -11,7 +11,7 @@
 
 1. このリポジトリをクローンします：
 ```bash
-git clone https://github.com/YourUsername/simple_pong.git
+git clone https://github.com/uekiy/simple_pong.git
 ```
 
 2. 必要なパッケージをインストールします：
@@ -29,11 +29,8 @@ python pong.py
 ## 操作方法
 
 - プレイヤー1（左側）: 
-  - W: 上に移動
-  - S: 下に移動
-- プレイヤー2（右側）:
-  - ↑: 上に移動
-  - ↓: 下に移動
+  - →: 右に移動
+  - ←: 左に移動
 
 ## ライセンス
 
